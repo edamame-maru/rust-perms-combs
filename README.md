@@ -1,2 +1,2 @@
 # rust-perms-combs
-Permutations in rust
+Permutations, Combinations in rust
