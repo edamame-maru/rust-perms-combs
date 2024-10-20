@@ -1,2 +1,2 @@
-# rust-perms
+# rust-perms-combs
 Permutations in rust
